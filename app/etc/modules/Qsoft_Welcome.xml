@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<config>
+
+    <modules>
+    
+        <Qsoft_Welcome>
+            
+            <active>true</active>
+            
+            <codePool>local</codePool>        
+            
+        </Qsoft_Welcome>
+        
+    </modules>
+        
+</config>

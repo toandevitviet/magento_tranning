@@ -1,0 +1,73 @@
+<!--<?//xml version="1.0"?>
+
+<config>
+    
+    <modules>
+    
+        <qsoft_welcome>
+            
+            <version>0.1.0</version>
+            
+        </qsoft_welcome>
+        
+    </modules>
+    
+    <frontend>
+    
+        <routers>
+        
+            <welcome>
+            
+                <use>standard</use>
+                
+                <args>
+                    
+                    <module>Qsoft_Welcome</module>
+                    
+                    <frontName>welcome</frontName>
+                
+                </args>
+                
+            </welcome>
+            
+        </routers>
+    
+    </frontend>
+    
+</config>
+-->
+
+
+<?xml version="1.0"?>
+<config>
+     <modules>
+         <qsoft_welcome>
+                <version>0.1.0</version>
+         </qsoft_welcome>
+     </modules>
+ <frontend>
+     <routers>
+         <welcome>
+             <use>standard</use>
+             <args>
+                 <module>qsoft_welcome</module>
+                 <frontName>welcome</frontName>
+             </args>
+         </welcome>
+     </routers>
+     <layout>
+         <updates>
+             <welcome>
+                <file>welcome.xml</file>
+             </welcome>
+         </updates>
+     </layout>
+ </frontend>
+ <global>
+     <blocks>
+         <welcome>
+            <class>qsoft_welcome_block</class>
+         </welcome>
+     </blocks>
+ </global>
+</config>

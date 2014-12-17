@@ -52,9 +52,9 @@
 <div class="currency-switcher">
     <label for="select-currency">Your Currency:</label>
     <select id="select-currency" name="currency" title="Your Currency" onchange="setLocation(this.value)">
-                <option value="http://localhost/magento_tranning/index.php/directory/currency/switch/currency/USD/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvX3RyYW5uaW5nLw,,/?___SID=U" selected="selected">
+                <option value="http://localhost/magento_tranning/index.php/directory/currency/switch/currency/USD/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvX3RyYW5uaW5nL2luZGV4LnBocC90b2FubW9kdWxl/?___SID=U" selected="selected">
             US Dollar - USD        </option>
-            <option value="http://localhost/magento_tranning/index.php/directory/currency/switch/currency/EUR/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvX3RyYW5uaW5nLw,,/?___SID=U">
+            <option value="http://localhost/magento_tranning/index.php/directory/currency/switch/currency/EUR/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvX3RyYW5uaW5nL2luZGV4LnBocC90b2FubW9kdWxl/?___SID=U">
             Euro - EUR        </option>
         </select>
 </div>

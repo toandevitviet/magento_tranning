@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+    <config>
+        <modules>
+            <Toanspace_Toanmodule>
+                <version>0.1.0</version>    <!-- Version number of your module -->
+            </Toanspace_Toanmodule>
+        </modules>
+        <frontend>
+            <routers>
+                <toanmodule>
+                    <use>standard</use>
+                    <args>
+                        <module>Toanspace_Toanmodule</module>
+                        <frontName>toanmodule</frontName>
+                    </args>
+                </toanmodule>
+            </routers>
+        </frontend>
+    </config>

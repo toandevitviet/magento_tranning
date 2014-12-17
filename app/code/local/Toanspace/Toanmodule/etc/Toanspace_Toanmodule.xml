@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+        <config>
+            <modules>
+                <Toanspace_Toanmodule>
+                    <active>true</active>
+                    <codePool>local</codePool>
+                </Toanspace_Toanmodule>
+            </modules>
+        </config>
