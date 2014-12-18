@@ -37,7 +37,6 @@
         </div>
     </div><!--/header_top-->
 
-
     <div class="header-middle"><!--header-middle-->
         <div class="container">
             <div class="row">
@@ -48,12 +47,14 @@
 
                 </div>
                 <div class="col-sm-8">
-                    <div class="shop-menu pull-right">
+                    <div class="shop-menu">
                         <!-- Suport -->
-                        Suport here
+                        <!-- Suport here-->
 
                         <!-- Search -->
-                        <?php echo $this->getChildHtml('topSearch') ?>
+                        <div class="header-search">
+                            <?php echo $this->getChildHtml('topSearch') ?>
+                        </div>
 
                         <!-- Cart -->
                         <div class="header-minicart">
@@ -63,11 +64,17 @@
                     </div>
                 </div>
             </div>
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="header-menu ">
+                        <?php echo $this->getChildHtml('topMenu') ?>
+                    </div>
+                </div>
+            </div>
         </div>
     </div><!--/header-middle-->
 
 </header><!--/header-->
-<?php echo $this->getChildHtml('topMenu') ?>
 <div class="header-bottom"><!--header-breadcrumbs-->
     <div class="container">
         <div class="row">

@@ -79,7 +79,7 @@
                 <!-- Add bootstrap 3 -->
                 <action method="addItem"><type>skin_js</type><name>js/bootstrap.min.js</name></action>
                 <action method="addItem"><type>skin_css</type><name>css/bootstrap.min.css</name></action>
-
+       
                 <!-- Sets viewport meta tag using text block -->
                 <block type="core/text" name="head.viewport">
                     <action method="setText"><text><![CDATA[<meta name="viewport" content="initial-scale=1.0, width=device-width" />]]>&#10;</text></action>

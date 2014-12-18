@@ -1132,7 +1132,7 @@ a.button:hover {
  */
 .breadcrumbs {
   overflow: hidden;
-  margin: -15px 0 15px;
+  /*margin: -15px 0 15px;*/
 }
 
 .breadcrumbs li {
@@ -1144,15 +1144,16 @@ a.button:hover {
 
 .breadcrumbs a {
   float: left;
-  color: #636363;
+  color: #fff;
 }
 
 .breadcrumbs a:hover {
-  color: #3399cc;
+  color: #ff0;
+    text-decoration: none;
 }
 
 .breadcrumbs strong {
-  color: #636363;
+  color: #fff;
   font-weight: normal;
 }
 
@@ -1287,7 +1288,7 @@ a.button:hover {
 .main-container,
 .footer-container {
   position: relative;
-  max-width: 1260px;
+  max-width: 1170px;
   margin: 0 auto;
   padding: 15px;
 }
@@ -9775,4 +9776,36 @@ div.calendar table td.button {
     width: 220px;
     height: 65px;
     border: 0;
+}
+.header-middle{
+    margin-top: 30px;
+}
+.header-search{
+    width: 330px;
+    float: right;
+    margin-right: 94px;
+}
+.header-minicart .icon, .label{
+    color:#828077;
+}
+.header-minicart .count{
+    color: #f00;
+}
+
+.wp-breadcrumbs{
+    color: #ffffff;
+    border-top: 0 solid #d5d5d5;
+    border-bottom: 0 solid #d5d5d5;
+    font-size: 13px;
+    font-weight: normal;
+    font-family: "Oswald", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #7bae23;
+    background-position: center center;
+    background-repeat: repeat;
+    margin-top: 15px;
+}
+.container-wp{
+    width: 1170px;
+    margin: 0 auto;
+    padding: 13px;
 }

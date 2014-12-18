@@ -1267,3 +1267,556 @@ Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simpl
 Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
 2014-12-18T04:55:18+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
 2014-12-18T04:55:18+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T04:58:40+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T04:58:40+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T04:58:40+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T04:58:40+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T04:58:40+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T04:58:40+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T04:58:40+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T04:58:40+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T04:58:40+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T04:58:40+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T04:58:40+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T04:58:40+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T04:58:51+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T04:58:51+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T04:58:51+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T04:58:51+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T04:58:51+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T04:58:51+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T04:58:57+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T04:58:57+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T04:58:57+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T04:58:57+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T04:58:57+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T04:58:57+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T05:01:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T05:01:31+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T05:01:31+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T05:01:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T05:01:31+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T05:01:31+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:48:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:48:13+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:48:13+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:48:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:48:13+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:48:13+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:52:06+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:52:06+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:52:06+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:52:06+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:52:06+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:52:06+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:52:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:52:07+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:52:07+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:52:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:52:07+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:52:07+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:57:42+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:57:42+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:57:42+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:57:42+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:57:42+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:57:42+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:58:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:58:12+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:58:12+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:58:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:58:12+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:58:12+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:59:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:59:59+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:59:59+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:59:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:59:59+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T06:59:59+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:00:34+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:00:34+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:00:34+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:00:34+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:00:34+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:00:34+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:02:34+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:02:34+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:02:34+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:02:34+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:02:34+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:02:34+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:05:39+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:05:39+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:05:39+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:05:39+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:05:39+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:05:39+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:10:06+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:10:06+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:10:06+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:10:06+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:10:06+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:10:06+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:14:32+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:14:32+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:14:32+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:14:32+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:14:32+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:14:32+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:16:35+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:16:35+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:16:35+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:16:35+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:16:35+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:16:35+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:19:00+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:19:00+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:19:00+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:19:00+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:19:00+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:19:00+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:19:10+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:19:10+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:19:10+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:19:10+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:19:10+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:19:10+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:22:02+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:22:02+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:22:02+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:22:02+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:22:02+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:22:02+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:23:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:23:12+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:23:12+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:23:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:23:12+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:23:12+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:24:51+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:24:51+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:24:51+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:24:51+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:24:51+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:24:51+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:27:22+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:27:22+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:27:22+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:27:22+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:27:22+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:27:22+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:29:02+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:29:02+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:29:02+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:29:02+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:29:02+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:29:02+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:29:57+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:29:57+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:29:57+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:29:57+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:29:57+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:29:57+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:32:23+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:32:23+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:32:23+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:32:23+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:32:23+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:32:23+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:34:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:34:49+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:34:49+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:34:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:34:49+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:34:49+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:41:25+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:41:25+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:41:25+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:41:25+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:41:25+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:41:25+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:42:03+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:42:03+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:42:03+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:42:03+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:42:03+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:42:03+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:43:02+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:43:02+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:43:02+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:43:02+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:43:02+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:43:02+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:43:06+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:43:06+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:43:06+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:43:06+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:43:06+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:43:06+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:45+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:45+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:45+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:45+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:45+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:45+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:49+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:49+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:49+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:49+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:53+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:53+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:53+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:53+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:53+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:53+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:55+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:55+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:55+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:55+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:55+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:55+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:56+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:56+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:56+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:56+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:56+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:56+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:57+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:57+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:57+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:57+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:57+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:44:57+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:45:00+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:45:00+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:45:00+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:45:00+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:45:00+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:45:00+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:45:02+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:45:02+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:45:02+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:45:02+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:45:02+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:45:02+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:47:33+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:47:33+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:47:33+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:47:33+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:47:33+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:47:33+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:47:33+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:47:33+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:47:33+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:47:33+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:47:33+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:47:33+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:47:37+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:47:37+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:47:37+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:47:37+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:47:37+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:47:37+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:48:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:48:13+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:48:13+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:48:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:48:13+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:48:13+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:07+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:07+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:07+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:07+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:11+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:11+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:11+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:11+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:11+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:11+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:27+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:27+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:27+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:27+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:27+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:27+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:45+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:45+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:45+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:45+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:45+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:45+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:48+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:48+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:48+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:48+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:48+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:50:48+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:51:40+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:51:40+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:51:40+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:51:40+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:51:40+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:51:40+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:52:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:52:13+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:52:13+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:52:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:52:13+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:52:13+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:52:41+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:52:41+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:52:41+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:52:41+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:52:41+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:52:41+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:56:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:56:30+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:56:30+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:56:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:56:30+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:56:30+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:57:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:57:12+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:57:12+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:57:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:57:12+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:57:12+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:57:28+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:57:28+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:57:28+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:57:28+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:57:28+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:57:28+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:58:24+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:58:24+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:58:24+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:58:24+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:58:24+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:58:24+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:58:47+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:58:47+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:58:47+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:58:47+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:58:47+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T07:58:47+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:00:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:00:12+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:00:12+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:00:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:00:12+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:00:12+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:01:17+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:01:17+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:01:17+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:01:17+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:01:17+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:01:17+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:01:53+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:01:53+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:01:53+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:01:53+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:01:53+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:01:53+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:03:52+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:03:52+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:03:52+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:03:52+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:03:52+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:03:52+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:04:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:04:49+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:04:49+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:04:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:04:49+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:04:49+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:07:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:07:13+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:07:13+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:07:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:07:13+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:07:13+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:07:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:07:30+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:07:30+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:07:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:07:30+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:07:30+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:08:11+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:08:11+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:08:11+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:08:11+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:08:11+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:08:11+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:08:44+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:08:44+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:08:44+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:08:44+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:08:44+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:08:44+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:07+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:07+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:07+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:07+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:33+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:33+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:33+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:33+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:33+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:33+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:40+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:40+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:40+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:40+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:40+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:40+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:41+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:41+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:41+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:41+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:41+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:41+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:52+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:52+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:52+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:52+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:52+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:14:52+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:16:36+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:16:36+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:16:36+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:16:36+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:16:36+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:16:36+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:16:37+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:16:37+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:16:37+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:16:37+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:16:37+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:16:37+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:16:43+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:16:43+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:16:43+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:16:43+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:16:43+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:16:43+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:00+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:00+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:00+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:00+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:00+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:00+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:10+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:10+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:10+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:10+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:10+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:10+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:14+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:14+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:14+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:14+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:14+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:14+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:15+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:15+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:15+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:15+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:15+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:15+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:17+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:17+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:17+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:17+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:17+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:17+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:19+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 42: parser error : XML declaration allowed only at the start of the document  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:19+00:00 ERR (3): Warning: simplexml_load_string(): &lt;?xml version=&quot;1.0&quot;?&gt;  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:19+00:00 ERR (3): Warning: simplexml_load_string():      ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:19+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 44: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x6D 0x6F  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:19+00:00 ERR (3): Warning: simplexml_load_string():   in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510
+2014-12-18T08:18:19+00:00 ERR (3): Warning: simplexml_load_string():     ^  in D:\xampp\htdocs\magento_tranning\lib\Varien\Simplexml\Config.php on line 510

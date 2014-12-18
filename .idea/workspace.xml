@@ -2,396 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21e40597-f334-45b8-a958-436be47fa393" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/bg_x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/media/col_left_callout.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/media/col_right_callout.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/demo-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/demo_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/media/homepage_banner_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/media/homepage_banner_1@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/media/homepage_banner_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/media/homepage_callout_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/media/homepage_callout_1@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/media/homepage_callout_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/media/homepage_callout_2@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/media/homepage_callout_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/media/homepage_callout_3@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/icon_sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/icon_sprite@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/logo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/logo_email.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/logo_print.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/opc-ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/social_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/social_icons@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/1column.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/2columns-left.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/2columns-right.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/3columns.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_account-reviews.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/function/_black.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/mixin/_breakpoint.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_catalog-compare.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_catalog-msrp.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_catalog-product.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/content/_category.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_checkout-cart-minicart.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_checkout-cart.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_checkout-onepage.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_checkout-success.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/mixin/_clearfix.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_cms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/core/_common.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_configurableswatches.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_contacts.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_cookies.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_customer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/layout/_footer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/core/_form.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/_framework.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/layout/_global.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/layout/_header-account.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/layout/_header-cart.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/layout/_header-nav.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/layout/_header-search.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/layout/_header.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/content/_home.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/mixin/_if-resolution.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/mixin/_image-replacement.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/mixin/_loading-overlay.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/mixin/_menu.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/vendor/_normalize.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/mixin/_not-selectable.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_paypal.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/override/_plugin.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_pricing_conditions.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_product-list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/core/_reset.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_review.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_search.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_slideshow.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/core/_table.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/mixin/_toggle-content.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/mixin/_triangle.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/mixin/_typography.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/_var.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/function/_white.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_wishlist.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/customer/account/dashboard/address.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/customer/form/address.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/paypal/express/review/address.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/view/addto.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/view/addtocart.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/bundle/catalog/product/view/type/bundle/availability.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/multishipping/billing.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/persistent/checkout/onepage/billing.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/paypal/bml.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/bundle/catalog/product/view/type/bundle.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/bundle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/captcha.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/cart.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/wishlist/item/column/cart.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/catalog.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/catalog_msrp.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/catalogsearch.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/payment/form/cc.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/payment/form/ccsave.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/customer/form/changepassword.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/checkout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/cms.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/reports/widget/compared/column/compared_default_list.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/reports/widget/compared/content/compared_grid.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/reports/widget/compared/column/compared_images_list.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/reports/widget/compared/content/compared_list.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/reports/widget/compared/column/compared_names_list.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/cataloginventory/stockqty/composite.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/config.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/view/type/options/configurable.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/customer/form/confirmation.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/contacts.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/cart/coupon.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/cart/crosssell.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/directory/currency.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/customer.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/customer/account/dashboard.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/view/type/default.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/view/type/availability/default.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/cart/item/default.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/cart/minicart/default.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/cart/render/default.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/cart/sidebar/default.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/multishipping/item/default.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/downloadable/checkout/cart/item/default.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/payment/info/default.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/sales/order/creditmemo/items/renderer/default.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/sales/order/items/renderer/default.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/paypal/express/review/details.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/directory.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/downloadable/sales/order/items/renderer/downloadable.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/downloadable.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/customer/address/edit.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/customer/form/edit.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/empty.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/enquire.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/fastclick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/layer/filter.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/html/footer.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/customer/form/forgotpassword.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalogsearch/form.mini.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/authorizenet/directpost/form.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalogsearch/advanced/form.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/contacts/form.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/review/form.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/sales/widget/guest/form.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/view/type/grouped.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/view/type/availability/grouped.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/html/header.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/sales/order/history.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/imagesloaded.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/onepage/review/info.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/wishlist/item/column/info.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/onepage/review/item.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/downloadable/checkout/onepage/review/item.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/cart/minicart/items.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/sales/order/items.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/sales/order/creditmemo/items.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/sales/order/shipment/items.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/jquery-1.10.2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/jquery-1.10.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/jquery-1.10.2.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/jquery.cycle2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/jquery.cycle2.swipe.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/elevatezoom/jquery.elevateZoom-3.0.8.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/elevatezoom/jquery.elevatezoom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/navigation/left.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/template/links.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/list.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/compare/list.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/downloadable/customer/products/list.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/review/product/view/list.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/wishlist/item/list.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/oauth/authorize/form/login-simple.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/persistent/checkout/onepage/login.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/persistent/customer/form/login.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/css/madisonisland-ie8.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/madisonisland-ie8.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/css/madisonisland.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/madisonisland.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/matchMedia.addListener.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/matchMedia.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/view/media.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/paypal/express/review/shipping/method.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/customer/form/mini.login.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/minicart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/cart/minicart.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/modernizr.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/msrp_rwd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/customer/account/navigation.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/new.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/widget/new/column/new_default_list.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/widget/new/content/new_grid.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/widget/new/column/new_images_list.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/widget/new/content/new_list.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/widget/new/column/new_names_list.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/newsletter.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/oauth.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/onepage.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/opcheckout_rwd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/page.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/html/pager.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/onepage/payment.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/paypal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/persistent.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/poll.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/msrp/popup.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/popup.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/wishlist/item/column/price.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/print.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/reports/product_viewed.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/onepage/progress.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/wishlist/item/column/quantity.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/sales/order/recent.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/persistent/customer/form/register.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/list/related.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/persistent/remember_me.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/persistent/remember_me_tooltip.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/bundle/sales/order/items/renderer.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/html/topmenu/renderer.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/customer/form/resetforgottenpassword.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalogsearch/result.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/paypal/express/review.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/review.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/rss.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/sales.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/css/scaffold-forms.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/scaffold-forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/bundle/catalog/product/view/type/bundle/option/select.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/selectivizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/sendfriend/send.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/wishlist/shared.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/view/sharing.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/cart/shipping.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/onepage/shipping.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/paypal/express/minicart/shortcut.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/paypal/express/product/shortcut.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/compare/sidebar.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/cart/sidebar.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/wishlist/sidebar.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/cart/render/simple.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/slideshow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/centinel/authentication/start.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/layer/state.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/css/styles-ie8.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/styles-ie8.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/styles.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/newsletter/subscribe.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/tag.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/etc/theme.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/list/toolbar.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/html/topmenu.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/locale/en_US/translate.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/downloadable/catalog/product/type.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/wishlist/button/update.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/cart/item/configure/updatecart.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/list/upsell.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/layer/view.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/view.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/review/view.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/review/customer/view.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/wishlist/view.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/reports/widget/viewed/column/viewed_default_list.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/reports/widget/viewed/content/viewed_grid.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/reports/widget/viewed/column/viewed_images_list.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/reports/widget/viewed/content/viewed_list.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/reports/widget/viewed/column/viewed_names_list.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/etc/widget.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/wishlist.xml" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---0d0_LAYOUT_040DDFDDA103174EE2016ADE8C843EACE" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---0d0_LAYOUT_045CAC1AA948AF4A96FF97B0B064B568D" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---0d0_LAYOUT_147E36A6F7E2DB2EEDBDCB613ACD5B858" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---0d0_LAYOUT_16CDC3E8D18B2C30316E186BE4D90912B" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---internal-metadatas---0d0_LAYOUT_040DDFDDA103174EE2016ADE8C843EACE" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---internal-metadatas---0d0_LAYOUT_045CAC1AA948AF4A96FF97B0B064B568D" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---internal-metadatas---0d0_LAYOUT_147E36A6F7E2DB2EEDBDCB613ACD5B858" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---internal-metadatas---0d0_LAYOUT_16CDC3E8D18B2C30316E186BE4D90912B" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--1\mage---0d0_LAYOUT_ADMINHTML_STORE0_DEFAULT_DEFAULT" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--1\mage---0d0_TRANSLATE_EN_US_FRONTEND_1_RWD_DEFAULT" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--1\mage---internal-metadatas---0d0_LAYOUT_ADMINHTML_STORE0_DEFAULT_DEFAULT" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--1\mage---internal-metadatas---0d0_TRANSLATE_EN_US_FRONTEND_1_RWD_DEFAULT" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--2\mage---0d0_CONFIG_GLOBAL" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--2\mage---internal-metadatas---0d0_CONFIG_GLOBAL" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--3\mage---0d0_config_theme" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--3\mage---internal-metadatas---0d0_config_theme" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--4\mage---0d0_CONFIG_GLOBAL_ADMIN" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--4\mage---internal-metadatas---0d0_CONFIG_GLOBAL_ADMIN" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--5\mage---0d0_CONFIG_GLOBAL_CRONTAB" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--5\mage---0d0_CONFIG_GLOBAL_INSTALL" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--5\mage---0d0_CONFIG_GLOBAL_STORES" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--5\mage---0d0_TRANSLATE_EN_US_ADMINHTML_0_DEFAULT_DEFAULT" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--5\mage---internal-metadatas---0d0_CONFIG_GLOBAL_CRONTAB" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--5\mage---internal-metadatas---0d0_CONFIG_GLOBAL_INSTALL" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--5\mage---internal-metadatas---0d0_CONFIG_GLOBAL_STORES" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--5\mage---internal-metadatas---0d0_TRANSLATE_EN_US_ADMINHTML_0_DEFAULT_DEFAULT" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--6\mage---0d0_CONFIG_GLOBAL_ADMINHTML" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--6\mage---0d0_CONFIG_GLOBAL_WEBSITES" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--6\mage---internal-metadatas---0d0_CONFIG_GLOBAL_ADMINHTML" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--6\mage---internal-metadatas---0d0_CONFIG_GLOBAL_WEBSITES" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--7\mage---0d0_ADMINHTML_ACL_MENU_CONFIG" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--7\mage---0d0_STORE_ADMIN_CONFIG_CACHE" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--7\mage---internal-metadatas---0d0_ADMINHTML_ACL_MENU_CONFIG" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--7\mage---internal-metadatas---0d0_STORE_ADMIN_CONFIG_CACHE" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--8\mage---0d0_CONFIG_GLOBAL_STORES_ADMIN" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--8\mage---0d0_STORE_DEFAULT_CONFIG_CACHE" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--8\mage---internal-metadatas---0d0_CONFIG_GLOBAL_STORES_ADMIN" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--8\mage---internal-metadatas---0d0_STORE_DEFAULT_CONFIG_CACHE" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_08FB05D699AE94683C158BBB80A6AB50" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_131389BB825FCA53E89B3BB2C9BE17E0" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_2C44CBADF218D7C7405013105BA6052E" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_303F94219AA5B39199FF69D8188AB0CD" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_63DB0573DF8D113D1E7552CBCF187073" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_65C36BE4D6C499774ECB171425FF9631" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_899A9D6D712095F3C9CA9DE10C06EDA6" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_95E47DCAF24F3643A7631C0C6A459A08" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_CE04170531082F37459B8DCE4A7D2512" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_CONFIG_GLOBAL_STORES_DEFAULT" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_JAVASCRIPT_TRANSLATE_CONFIG" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_08FB05D699AE94683C158BBB80A6AB50" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_131389BB825FCA53E89B3BB2C9BE17E0" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_2C44CBADF218D7C7405013105BA6052E" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_303F94219AA5B39199FF69D8188AB0CD" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_63DB0573DF8D113D1E7552CBCF187073" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_65C36BE4D6C499774ECB171425FF9631" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_899A9D6D712095F3C9CA9DE10C06EDA6" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_95E47DCAF24F3643A7631C0C6A459A08" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_CE04170531082F37459B8DCE4A7D2512" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_CONFIG_GLOBAL_STORES_DEFAULT" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_JAVASCRIPT_TRANSLATE_CONFIG" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---0d0_6E16BA0DD94DA6593E7DB462A5F1D807" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---0d0_76D390DEB6D0C640F81FDE756C97A9EB" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---0d0_C29E8C51C27888176EAADD4ADD7776FA" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---0d0_CF5E01BBFA5CDAE34EF9D100B9A8F0A6" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---internal-metadatas---0d0_6E16BA0DD94DA6593E7DB462A5F1D807" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---internal-metadatas---0d0_76D390DEB6D0C640F81FDE756C97A9EB" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---internal-metadatas---0d0_C29E8C51C27888176EAADD4ADD7776FA" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---internal-metadatas---0d0_CF5E01BBFA5CDAE34EF9D100B9A8F0A6" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--c\mage---0d0_APP_B1FB6E8F13287C01E5C05063633DDA4C" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--c\mage---0d0_APP_E4D52B98688947405EDE639E947EE03D" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--c\mage---internal-metadatas---0d0_APP_B1FB6E8F13287C01E5C05063633DDA4C" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--c\mage---internal-metadatas---0d0_APP_E4D52B98688947405EDE639E947EE03D" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--d\mage---0d0_APP_4E4ABDD8DC00C3DACB3C1597944A3B6C" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--d\mage---internal-metadatas---0d0_APP_4E4ABDD8DC00C3DACB3C1597944A3B6C" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_0A52CE5F952E81B0E074C55EFD597EFCC01016DE" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_1A1E26C735C782C1266844B4038BE96418EF7E55" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_6E8F998FB045789B49F7D20045C5C06DE4A0D19B" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_8E04C6B40D09885DC781B85E2BF0915B883BDD10" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_8E0FE13BD7B604D0DB319AC45A5815A676DC86EA" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_9F48C8F83D379346BEA4C6615E0E7BF8FD6A126D" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_B124A8D0BE762BA38014BDDCD0A756890B964D5C" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_C989BE22D7B6F6E2885A45776F3299504F58E82E" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_E85A8932C9AA5BEDA95D7679697540DED527EF74" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_LAYOUT_FRONTEND_STORE1_RWD_DEFAULT" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_0A52CE5F952E81B0E074C55EFD597EFCC01016DE" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_1A1E26C735C782C1266844B4038BE96418EF7E55" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_6E8F998FB045789B49F7D20045C5C06DE4A0D19B" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_8E04C6B40D09885DC781B85E2BF0915B883BDD10" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_8E0FE13BD7B604D0DB319AC45A5815A676DC86EA" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_9F48C8F83D379346BEA4C6615E0E7BF8FD6A126D" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_B124A8D0BE762BA38014BDDCD0A756890B964D5C" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_C989BE22D7B6F6E2885A45776F3299504F58E82E" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_E85A8932C9AA5BEDA95D7679697540DED527EF74" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_LAYOUT_FRONTEND_STORE1_RWD_DEFAULT" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---0d0_3B6DF0B53FFA5DCF2380F91197FF7E9A4C7A63D5" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---0d0_3EF64ECF6EC7EA1747CADC6D2A858CAA63F9F7F7" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---0d0_8DAAE5A9DC3CF35FB6A8E8720E75E7710AEEFF82" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---0d0_A89BCC7F7F5CB6CFF4171FF891706A01214F65F5" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---0d0_LAYOUT_15E4CA261871003A0224CDEADCFE8FDBD" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---0d0_LAYOUT_1A08B4E738125D07D45805912DC52852E" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---internal-metadatas---0d0_3B6DF0B53FFA5DCF2380F91197FF7E9A4C7A63D5" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---internal-metadatas---0d0_3EF64ECF6EC7EA1747CADC6D2A858CAA63F9F7F7" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---internal-metadatas---0d0_8DAAE5A9DC3CF35FB6A8E8720E75E7710AEEFF82" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---internal-metadatas---0d0_A89BCC7F7F5CB6CFF4171FF891706A01214F65F5" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---internal-metadatas---0d0_LAYOUT_15E4CA261871003A0224CDEADCFE8FDBD" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---internal-metadatas---0d0_LAYOUT_1A08B4E738125D07D45805912DC52852E" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/toan.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/1column.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/1column.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/2columns-left.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/2columns-left.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/2columns-right.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/2columns-right.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/3columns.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/3columns.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/html/header.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/html/header.phtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---0d0_ADMIN_NOTIFICATIONS_LASTCHECK" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---0d0_ADMIN_NOTIFICATIONS_LASTCHECK" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---0d0_CORE_CACHE_OPTIONS" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---0d0_CORE_CACHE_OPTIONS" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---0d0_FOOTER_LOCALEEN_US" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---0d0_FOOTER_LOCALEEN_US" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---0d0_ADMIN_NOTIFICATIONS_LASTCHECK" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---0d0_ADMIN_NOTIFICATIONS_LASTCHECK" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---0d0_CONFIGURATION_FILES_ACCESS_LEVEL_VERIFICATION" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---0d0_CONFIGURATION_FILES_ACCESS_LEVEL_VERIFICATION" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---0d0_CORE_CACHE_INVALIDATE" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---0d0_CORE_CACHE_INVALIDATE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---0d0_CORE_CACHE_OPTIONS" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---0d0_CORE_CACHE_OPTIONS" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_catalog_product_entity_1" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_catalog_product_entity_1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_core_config_data_1" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_core_config_data_1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_design_change_1" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_design_change_1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_eav_attribute_1" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_eav_attribute_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_log_url_1" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_log_url_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_log_url_info_1" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_log_url_info_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_log_visitor_info_1" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_log_visitor_info_1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_report_event_1" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_report_event_1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_report_viewed_product_index_1" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_report_viewed_product_index_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---0d0_FOOTER_LOCALEEN_US" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---0d0_FOOTER_LOCALEEN_US" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_af_ZA_country_ZA" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_af_ZA_country_ZA" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_Zend_LocaleC_af_ZA_language_af" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_Zend_LocaleC_af_ZA_language_af" />
@@ -442,275 +66,22 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_NZ_country_NZ" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_NZ_country_NZ" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_Zend_LocaleC_en_NZ_language_en" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_Zend_LocaleC_en_NZ_language_en" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_am_" afterPath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_am_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AD" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AE" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AF" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AG" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AI" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AI" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AL" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AM" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AM" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AN" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AN" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AO" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AO" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AQ" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AQ" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AR" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AR" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AS" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AS" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AT" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AU" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AU" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AW" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AW" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AX" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AX" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AZ" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_AZ" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BA" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BA" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BB" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BB" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BD" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BE" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BF" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BG" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BH" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BH" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BI" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BI" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BJ" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BJ" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BL" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BM" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BM" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BN" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BN" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BO" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BO" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BR" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BR" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BS" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BS" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BT" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BV" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BV" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BW" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BW" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BY" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BY" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BZ" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_BZ" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CA" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CA" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CC" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CC" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CD" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CF" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CG" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CH" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CH" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CI" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CI" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CK" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CK" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CL" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CM" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CM" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CN" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CN" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CO" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CO" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CR" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CR" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CU" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CU" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CV" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CV" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CX" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CX" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CY" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CY" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CZ" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_CZ" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_DE" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_DE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_DJ" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_DJ" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_DK" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_DK" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_DM" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_DM" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_DO" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_DO" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_DZ" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_DZ" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_EC" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_EC" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_EE" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_EE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_EG" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_EG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_EH" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_EH" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_ER" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_ER" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_ES" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_ES" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_ET" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_ET" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_FI" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_FI" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_FJ" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_FJ" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_FK" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_FK" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_FM" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_FM" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_FO" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_FO" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_FR" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_FR" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GA" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GA" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GB" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GB" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GD" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GE" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GF" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GG" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GH" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GH" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GI" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GI" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GL" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GM" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GM" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GN" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GN" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GP" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GP" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GQ" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GQ" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GR" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GR" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GS" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GS" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GT" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GU" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GU" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GW" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GW" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GY" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_GY" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_HK" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_HK" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_HM" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_HM" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_HN" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_HN" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_HR" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_HR" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_HT" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_HT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_HU" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_HU" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_ID" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_ID" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_IE" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_IE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_IL" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_IL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_IM" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_IM" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_IN" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_IN" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_IO" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_IO" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_IQ" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_IQ" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_IR" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_IR" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_IS" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_IS" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_IT" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_IT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_JE" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_JE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_JM" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_JM" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_JO" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_JO" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_JP" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_JP" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_KE" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_KE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_KG" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_KG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_KH" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_KH" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_KI" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_KI" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_KM" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_KM" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_KN" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_KN" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_KP" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_KP" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_KR" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_KR" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_KW" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_KW" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_KY" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_KY" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_KZ" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_KZ" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_LA" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_LA" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_LB" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_LB" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_LC" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_LC" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_LI" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_LI" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_LK" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_LK" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_LR" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_LR" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_LS" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_LS" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_LT" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_LT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_LU" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_LU" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_LV" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_LV" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_LY" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_LY" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MA" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MA" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MC" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MC" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MD" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_ME" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_ME" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MF" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MG" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MH" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MH" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MK" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MK" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_ML" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_ML" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MM" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MM" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MN" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MN" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MO" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MO" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MP" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MP" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MQ" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MQ" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MR" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MR" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MS" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MS" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MT" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MU" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MU" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MV" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MV" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MW" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MW" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MX" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MX" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MY" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MY" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MZ" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_MZ" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_NA" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_NA" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_NC" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_NC" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_NE" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_NE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_NF" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_NF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_NG" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_NG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_NI" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_NI" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_NL" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_NL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_NO" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_NO" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_NP" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_NP" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_NR" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_NR" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_NU" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_NU" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_NZ" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_NZ" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_OM" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_OM" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PA" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PA" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PE" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PF" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PG" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PH" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PH" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PK" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PK" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PL" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PM" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PM" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PN" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PN" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PR" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PR" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PS" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PS" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PT" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PW" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PW" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PY" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_PY" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_QA" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_QA" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_RE" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_RE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_RO" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_RO" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_RS" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_RS" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_RU" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_RU" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_RW" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_RW" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SA" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SA" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SB" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SB" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SC" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SC" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SD" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SE" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SG" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SH" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SH" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SI" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SI" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SJ" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SJ" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SK" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SK" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SL" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SM" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SM" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SN" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SN" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SO" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SO" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SR" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SR" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_ST" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_ST" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SV" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SV" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SY" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SY" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SZ" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_SZ" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TC" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TC" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TD" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TF" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TG" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TH" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TH" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TJ" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TJ" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TK" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TK" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TL" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TM" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TM" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TN" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TN" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TO" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TO" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TR" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TR" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TT" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TV" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TV" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TW" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TW" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TZ" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_TZ" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_UA" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_UA" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_UG" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_UG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_UM" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_UM" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_US" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_US" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_UY" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_UY" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_UZ" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_UZ" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_VA" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_VA" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_VC" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_VC" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_VE" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_VE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_VG" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_VG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_VI" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_VI" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_VN" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_VN" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_VU" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_VU" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_WF" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_WF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_WS" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_WS" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_YE" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_YE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_YT" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_YT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_ZA" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_ZA" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_ZM" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_ZM" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_ZW" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_country_ZW" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_currencynumber_" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_currencynumber_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_currencysymbol_USD" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_currencysymbol_USD" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_currencysymbol_" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_currencysymbol_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_currencytoname_USD" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_currencytoname_USD" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_currencytoregion_US" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_currencytoregion_US" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_date_" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_date_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_date_full" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_date_full" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_date_long" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_date_long" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_date_medium" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_date_medium" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_date_short" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_date_short" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_day_gregorian_format_wide_wed" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_day_gregorian_format_wide_wed" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_decimalnumber_" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_decimalnumber_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_field_week" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_field_week" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_language_en" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_language_en" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_month_gregorian_format_abbreviated_12" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_month_gregorian_format_abbreviated_12" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_month_gregorian_format_wide_12" afterPath="$PROJECT_DIR$/var/cache/mage--1/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_month_gregorian_format_wide_12" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_nametocurrency_EUR" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_nametocurrency_EUR" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_nametocurrency_USD" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_nametocurrency_USD" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_nametocurrency_" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_nametocurrency_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_pm_" afterPath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_pm_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_relative_0" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_relative_0" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_scientificnumber_" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_scientificnumber_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_time_" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_time_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_time_medium" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_time_medium" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_es_AR_country_AR" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_es_AR_country_AR" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_Zend_LocaleC_es_AR_language_es" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_Zend_LocaleC_es_AR_language_es" />
@@ -832,9 +203,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---0d0_Zend_LocaleL_en_US_months_" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---0d0_Zend_LocaleL_en_US_months_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---0d0_Zend_LocaleL_en_US_symbols_" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---0d0_Zend_LocaleL_en_US_symbols_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_Zend_LocaleL_en_US_territory_2" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_Zend_LocaleL_en_US_territory_2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---0d0_Zend_LocaleL_en_US_windowstotimezone_" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---0d0_Zend_LocaleL_en_US_windowstotimezone_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/magento_tranning.iml" afterPath="$PROJECT_DIR$/.idea/magento_tranning.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/rwd/default/template/page/html/topmenu/renderer.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/rwd/default/template/page/html/topmenu/renderer.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/page.xml" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/page.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/session/sess_35sl8j1jpfkknpufcgca3dnn24" afterPath="$PROJECT_DIR$/var/session/sess_35sl8j1jpfkknpufcgca3dnn24" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/venedor/default/css/styles.css" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/log/system.log" afterPath="$PROJECT_DIR$/var/log/system.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -862,7 +233,7 @@
       <file leaf-file-name="customer.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/layout/customer.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="115" selection-start="3150" selection-end="3150" vertical-scroll-proportion="-11.56" vertical-offset="1054" max-vertical-offset="5219">
+            <state line="79" column="115" selection-start="3150" selection-end="3150" vertical-scroll-proportion="0.0" vertical-offset="1054" max-vertical-offset="5219">
               <folding />
             </state>
           </provider>
@@ -871,19 +242,70 @@
       <file leaf-file-name="header.phtml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/html/header.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="36" selection-start="396" selection-end="396" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="1428">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="70" column="26" selection-start="3120" selection-end="3120" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="1547">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/skin/frontend/venedor/default/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9775" column="14" selection-start="206738" selection-end="206738" vertical-scroll-proportion="0.843318" vertical-offset="165443" max-vertical-offset="166311">
+            <state line="9794" column="15" selection-start="206998" selection-end="207012" vertical-scroll-proportion="0.0" vertical-offset="166294" max-vertical-offset="166872">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/layout/page.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="81" column="7" selection-start="5195" selection-end="5195" vertical-scroll-proportion="0.33222038" vertical-offset="1178" max-vertical-offset="4386">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.phtml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/html/footer.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="0" selection-start="1170" selection-end="1170" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="255">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1column.phtml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/1column.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="36" selection-start="1855" selection-end="1855" vertical-scroll-proportion="-14.884615" vertical-offset="38" max-vertical-offset="918">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2columns-left.phtml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/2columns-left.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="37" selection-start="1856" selection-end="1856" vertical-scroll-proportion="0.0" vertical-offset="850" max-vertical-offset="1411">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2columns-right.phtml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/2columns-right.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="37" selection-start="1856" selection-end="1856" vertical-scroll-proportion="0.0" vertical-offset="850" max-vertical-offset="1343">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3columns.phtml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/3columns.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="37" selection-start="1856" selection-end="1856" vertical-scroll-proportion="0.0" vertical-offset="850" max-vertical-offset="1445">
               <folding />
             </state>
           </provider>
@@ -907,17 +329,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/code/local/Toanspace/Toanmodule/etc/Toanspace_Toanmodule.xml" />
         <option value="$PROJECT_DIR$/app/code/local/Toanspace/Toanmodule/etc/config.xml" />
         <option value="$PROJECT_DIR$/app/code/local/Toanspace/Toanmodule/controllers/IndexController.php" />
         <option value="$PROJECT_DIR$/app/design/frontend/rwd/default/template/page/html/header.phtml" />
         <option value="$PROJECT_DIR$/app/design/frontend/rwd/default/template/page/html/topmenu/renderer.phtml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/page.xml" />
         <option value="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/wishlist.xml" />
         <option value="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/checkout.xml" />
         <option value="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/customer.xml" />
         <option value="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/html/header.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/3columns.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/2columns-right.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/2columns-left.phtml" />
         <option value="$PROJECT_DIR$/skin/frontend/venedor/default/css/styles.css" />
+        <option value="$PROJECT_DIR$/skin/frontend/venedor/default/js/toan.js" />
+        <option value="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/1column.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/html/footer.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/page.xml" />
       </list>
     </option>
   </component>
@@ -1010,6 +437,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento_tranning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento_tranning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="venedor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1376,13 +833,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939914" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32939914" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18020834" sideWeight="0.67060083" order="0" side_tool="false" content_ui="combo" />
@@ -1411,122 +868,102 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/page/html/topmenu/renderer.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="0" selection-start="1676" selection-end="1676" vertical-scroll-proportion="-7.0384617" vertical-offset="225" max-vertical-offset="1105">
-          <folding>
-            <marker date="1418869553971" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/html/topmenu/renderer.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="0" selection-start="1257" selection-end="1257" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="1105">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/enquire.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5015">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/html/topmenu.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="906">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/layout/contacts.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="906">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/layout/wishlist.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="40" selection-start="1113" selection-end="1124" vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="2601">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/layout/checkout.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="54" selection-start="1171" selection-end="1281" vertical-scroll-proportion="0.0" vertical-offset="430" max-vertical-offset="9350">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/template/links.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="493">
-          <folding>
-            <marker date="1418784266300" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1418784266300" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="493" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/default/modern/template/page/html/header.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/html/pager.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="45" selection-start="1345" selection-end="1345" vertical-scroll-proportion="28.115385" vertical-offset="969" max-vertical-offset="1853">
-          <folding />
-        </state>
+        <state line="41" column="45" selection-start="1345" selection-end="1345" vertical-scroll-proportion="28.115385" vertical-offset="969" max-vertical-offset="1853" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/skin/frontend/venedor/default/scss/layout/_header-nav.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="0" selection-start="1335" selection-end="1335" vertical-scroll-proportion="-6.901961" vertical-offset="396" max-vertical-offset="4828">
-          <folding />
-        </state>
+        <state line="44" column="0" selection-start="1335" selection-end="1335" vertical-scroll-proportion="-6.901961" vertical-offset="396" max-vertical-offset="4828" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Page/Block/Html/Head.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="509" column="38" selection-start="15493" selection-end="15493" vertical-scroll-proportion="-7.3846154" vertical-offset="8070" max-vertical-offset="8670">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/layout/page.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="120" selection-start="5435" selection-end="5436" vertical-scroll-proportion="-7.64" vertical-offset="1237" max-vertical-offset="4386">
-          <folding />
-        </state>
+        <state line="509" column="38" selection-start="15493" selection-end="15493" vertical-scroll-proportion="-7.3846154" vertical-offset="8070" max-vertical-offset="8670" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/layout/customer.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="115" selection-start="3150" selection-end="3150" vertical-scroll-proportion="-11.56" vertical-offset="1054" max-vertical-offset="5219">
+        <state line="79" column="115" selection-start="3150" selection-end="3150" vertical-scroll-proportion="0.0" vertical-offset="1054" max-vertical-offset="5219">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/errors/default/page.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="38" selection-start="2000" selection-end="2014" vertical-scroll-proportion="0.7120419" vertical-offset="0" max-vertical-offset="748">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/html/header.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="36" selection-start="396" selection-end="396" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="1428">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="70" column="26" selection-start="3120" selection-end="3120" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="1547">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/3columns.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="37" selection-start="1856" selection-end="1856" vertical-scroll-proportion="0.0" vertical-offset="850" max-vertical-offset="1445">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/2columns-left.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="37" selection-start="1856" selection-end="1856" vertical-scroll-proportion="0.0" vertical-offset="850" max-vertical-offset="1411">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/2columns-right.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="37" selection-start="1856" selection-end="1856" vertical-scroll-proportion="0.0" vertical-offset="850" max-vertical-offset="1343">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/skin/frontend/venedor/default/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9775" column="14" selection-start="206738" selection-end="206738" vertical-scroll-proportion="0.843318" vertical-offset="165443" max-vertical-offset="166311">
+        <state line="9794" column="15" selection-start="206998" selection-end="207012" vertical-scroll-proportion="0.0" vertical-offset="166294" max-vertical-offset="166872">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skin/frontend/venedor/default/js/toan.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="52" selection-end="52" vertical-scroll-proportion="0.05676127" vertical-offset="0" max-vertical-offset="599" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/1column.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="36" selection-start="1855" selection-end="1855" vertical-scroll-proportion="-14.884615" vertical-offset="38" max-vertical-offset="918">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/html/footer.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="0" selection-start="1170" selection-end="1170" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/layout/page.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="7" selection-start="5195" selection-end="5195" vertical-scroll-proportion="0.33222038" vertical-offset="1178" max-vertical-offset="4386">
           <folding />
         </state>
       </provider>
