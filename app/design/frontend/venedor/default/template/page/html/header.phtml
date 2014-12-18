@@ -1,0 +1,79 @@
+<header id="header"><!--header-->
+    <div class="header_top"><!--header_top-->
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-5">
+                    <div class="contact-info">
+                        <?php echo $this->getChildHtml('toplinkscontactinfo'); ?>
+                    </div>
+                </div>
+                <div class="col-sm-5">
+                    <div class="contact-new pull-right">
+                        <div style="float: left; margin: 5px; color: #828087;"> <?php echo $this->getWelcome(); ?> </div>
+                        <div style="float: right"> <?php echo $this->getChildHtml('toplinkscontactnew'); ?> </div>
+                    </div>
+                </div>
+                <div class="col-sm-2">
+                    <div class="store-lang">
+                        <div class="btn-group pull-right">
+                            <div class="btn-group">
+                                <?php echo $this->getChildHtml('store_language') ?>
+                            </div>
+
+                            <div class="btn-group">
+                                <button type="button" class="btn btn-default dropdown-toggle usa" data-toggle="dropdown">
+                                    DOLLAR
+                                    <span class="caret"></span>
+                                </button>
+                                <ul class="dropdown-menu">
+                                    <li><a href="#">Canadian Dollar</a></li>
+                                    <li><a href="#">Pound</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div><!--/header_top-->
+
+
+    <div class="header-middle"><!--header-middle-->
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4">
+                    <div class="logo pull-left">
+                        <a href="<?php echo $this->getUrl('') ?>" title="<?php echo $this->getLogoAlt() ?>" class="logo"><img src="<?php echo $this->getLogoSrc() ?>" alt="<?php echo $this->getLogoAlt() ?>" /></a>
+                    </div>
+
+                </div>
+                <div class="col-sm-8">
+                    <div class="shop-menu pull-right">
+                        <!-- Suport -->
+                        Suport here
+
+                        <!-- Search -->
+                        <?php echo $this->getChildHtml('topSearch') ?>
+
+                        <!-- Cart -->
+                        <div class="header-minicart">
+                            <?php echo $this->getChildHtml('minicart_head'); ?>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div><!--/header-middle-->
+
+</header><!--/header-->
+<?php echo $this->getChildHtml('topMenu') ?>
+<div class="header-bottom"><!--header-breadcrumbs-->
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <?php echo $this->getChildHtml('breadcrumbs') ?>
+            </div>
+        </div>
+    </div>
+</div>

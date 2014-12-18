@@ -2,219 +2,397 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21e40597-f334-45b8-a958-436be47fa393" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/Toanspace/Toanmodule/controllers/IndexController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/local/Toanspace/Toanmodule/etc/Toanspace_Toanmodule.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/magento_tranning.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\test.sql" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---0d0_LAYOUT_0295C9A136C500CC4DFC898EF4CBA3000" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---0d0_LAYOUT_07F8671D8E8AE23B72B274438E9E0C0A8" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---0d0_LAYOUT_08D1CB811A832CD8A250E1AB87FBDF005" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---0d0_LAYOUT_0C7BFD62B7F248FA41A1AF456342BE9D8" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---0d0_LAYOUT_0D694E278B5FEB0A9FC3C26D36C3018EC" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---0d0_LAYOUT_0D6C01CD8E29D0BFABFA58A319CBEC555" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---0d0_LAYOUT_0D9084A8766D80EA54446E5ECA87D9EB7" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---0d0_LAYOUT_17A39C7B805861E2A99F2F4D88AE5E833" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---0d0_LAYOUT_1EC2D52E879E7A734BFB3C5B90EED6ECF" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---0d0_LAYOUT_1FD15AF8F50162106C2F1CE57B4F791E7" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---internal-metadatas---0d0_LAYOUT_0295C9A136C500CC4DFC898EF4CBA3000" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---internal-metadatas---0d0_LAYOUT_07F8671D8E8AE23B72B274438E9E0C0A8" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---internal-metadatas---0d0_LAYOUT_08D1CB811A832CD8A250E1AB87FBDF005" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---internal-metadatas---0d0_LAYOUT_0C7BFD62B7F248FA41A1AF456342BE9D8" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---internal-metadatas---0d0_LAYOUT_0D694E278B5FEB0A9FC3C26D36C3018EC" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---internal-metadatas---0d0_LAYOUT_0D6C01CD8E29D0BFABFA58A319CBEC555" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---internal-metadatas---0d0_LAYOUT_0D9084A8766D80EA54446E5ECA87D9EB7" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---internal-metadatas---0d0_LAYOUT_17A39C7B805861E2A99F2F4D88AE5E833" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---internal-metadatas---0d0_LAYOUT_1EC2D52E879E7A734BFB3C5B90EED6ECF" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---internal-metadatas---0d0_LAYOUT_1FD15AF8F50162106C2F1CE57B4F791E7" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_258AE20A1493EBAEEC5C0863CEC00F17" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_35876B40D855BAC58E7901038F45E7DD" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_5C1323E1564117D689FBADEF97A6DF7B" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_8A1402892978E1644932160E792E8182" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_B25BCC78D29896C47003031618A00406" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_CF7E745A2922697B62DA24415F758EF6" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_ED27F1722B2660615B21C9CE4302D816" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_FC246115C4A1A3A704166EB9E631EEB8" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_258AE20A1493EBAEEC5C0863CEC00F17" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_35876B40D855BAC58E7901038F45E7DD" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_5C1323E1564117D689FBADEF97A6DF7B" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_8A1402892978E1644932160E792E8182" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_B25BCC78D29896C47003031618A00406" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_CF7E745A2922697B62DA24415F758EF6" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_ED27F1722B2660615B21C9CE4302D816" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_FC246115C4A1A3A704166EB9E631EEB8" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---0d0_0EA686DF9E6DF7EA695B40097A39C5FE" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---0d0_1ABFEFBAC056C9E2B9B7BD94718154BB" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---0d0_253193CF5E8DEDD2B29F99E708AF9051" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---0d0_32B46DF2FFF372FDB5C97BDAED27F670" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---0d0_40AA4FD18B95FF38964D87C752AE8361" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---0d0_5A5A7EA2DC42C0018D1DEC1E6970CFDC" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---0d0_5E6EBDFD192CDF97ADC91455CF838FB0" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---0d0_840FA6D57FF9A099BA2F127866A4DC5B" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---0d0_8EA3D0ED83F8E82F53AD494F687FA88C" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---0d0_939FBDD79556B7A44FD706B5DA6A5062" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---0d0_94D59E3CD8DACED57698F4165A6E1031" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---0d0_9E66A7DD4FE7555A5C48F0D6D456DD1E" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---0d0_A193CFC4976AE8FF890D2F3615EC8F1B" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---0d0_A6998ED0F0FBF47E6EF0E0FB88577FE9" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---0d0_ACCD3F528EFCA8AFDEF2B0DDAC734A7C" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---0d0_B0B4AB9912EFE8DABE2E772CE29B8C1C" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---0d0_D1F75C5E19B90B57D3F4372BAF227574" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---0d0_F82FE04C2D92A20DAF711BC21881AA2F" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---internal-metadatas---0d0_0EA686DF9E6DF7EA695B40097A39C5FE" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---internal-metadatas---0d0_1ABFEFBAC056C9E2B9B7BD94718154BB" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---internal-metadatas---0d0_253193CF5E8DEDD2B29F99E708AF9051" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---internal-metadatas---0d0_32B46DF2FFF372FDB5C97BDAED27F670" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---internal-metadatas---0d0_40AA4FD18B95FF38964D87C752AE8361" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---internal-metadatas---0d0_5A5A7EA2DC42C0018D1DEC1E6970CFDC" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---internal-metadatas---0d0_5E6EBDFD192CDF97ADC91455CF838FB0" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---internal-metadatas---0d0_840FA6D57FF9A099BA2F127866A4DC5B" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---internal-metadatas---0d0_8EA3D0ED83F8E82F53AD494F687FA88C" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---internal-metadatas---0d0_939FBDD79556B7A44FD706B5DA6A5062" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---internal-metadatas---0d0_94D59E3CD8DACED57698F4165A6E1031" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---internal-metadatas---0d0_9E66A7DD4FE7555A5C48F0D6D456DD1E" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---internal-metadatas---0d0_A193CFC4976AE8FF890D2F3615EC8F1B" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---internal-metadatas---0d0_A6998ED0F0FBF47E6EF0E0FB88577FE9" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---internal-metadatas---0d0_ACCD3F528EFCA8AFDEF2B0DDAC734A7C" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---internal-metadatas---0d0_B0B4AB9912EFE8DABE2E772CE29B8C1C" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---internal-metadatas---0d0_D1F75C5E19B90B57D3F4372BAF227574" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---internal-metadatas---0d0_F82FE04C2D92A20DAF711BC21881AA2F" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_0261BB862F915EEDCB348EA9A90AED9F16020EEC" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_0438DE95C1EBA455868192CE126E9207C9BDEFBE" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_07C4442BE9A1A03667836C8E5CB0D74B23D143BB" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_0A8E7978D43A05C90C8ECF351004AD04C8193EF0" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_2F5AB5E2AEF15A77090B58DC3F99CF4729BE6281" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_32BF8D9E77B2800EA5013BD716EDD6BE3D224F32" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_386C5ED9001B4A94FB6DCA2EBF47C91646D9BF90" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_3F5E957DB095F449F27C5F6A8AE86B83B9019973" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_4E525E5426E71696D18ECCB16DEA5C5C80529D30" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_593FB9446587F34343E6B92F8BE7BB4BB67F444C" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_5A786779677E5D30D3BA9B303EE55B30191F1CCA" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_5E4BD5650E1B2731E33DA850D48ED417FBDB20CD" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_6305510451AE177E3DC530A07EF913BF74DF01F8" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_6DA581D4A10B6E22B73B5EE2FA9AD2AE3FB3039F" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_6E992FB7442C67B91B68E176996948025A67744D" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_74E1222040C1EE9499D02FFC5C9FCBE400CBFDF6" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_7FFA75F29B71E0C0322660979FDB3CEDC818D222" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_97815778B1A43243924DC4AF54BB92BFE8BAED4E" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_9C597889519EC131F03C5E881554F4939D74A64A" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_B01D1DA3C4D6A38D6A8A9A0A37B90A5FDB058D79" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_BB760E2662B9BE54C31C36BDF418C48221361592" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_CE3AC92289564E321C02329AD7A4A0740130D059" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_D859655241EE5E036FA53ED3360C83FBE7838272" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_DAD7CA812C52677D75C6D8B7D91D275599CB16AD" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_EC7D510CA33643939D64DE3A928C58110266C395" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_0261BB862F915EEDCB348EA9A90AED9F16020EEC" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_0438DE95C1EBA455868192CE126E9207C9BDEFBE" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_07C4442BE9A1A03667836C8E5CB0D74B23D143BB" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_0A8E7978D43A05C90C8ECF351004AD04C8193EF0" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_2F5AB5E2AEF15A77090B58DC3F99CF4729BE6281" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_32BF8D9E77B2800EA5013BD716EDD6BE3D224F32" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_386C5ED9001B4A94FB6DCA2EBF47C91646D9BF90" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_3F5E957DB095F449F27C5F6A8AE86B83B9019973" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_4E525E5426E71696D18ECCB16DEA5C5C80529D30" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_593FB9446587F34343E6B92F8BE7BB4BB67F444C" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_5A786779677E5D30D3BA9B303EE55B30191F1CCA" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_5E4BD5650E1B2731E33DA850D48ED417FBDB20CD" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_6305510451AE177E3DC530A07EF913BF74DF01F8" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_6DA581D4A10B6E22B73B5EE2FA9AD2AE3FB3039F" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_6E992FB7442C67B91B68E176996948025A67744D" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_74E1222040C1EE9499D02FFC5C9FCBE400CBFDF6" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_7FFA75F29B71E0C0322660979FDB3CEDC818D222" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_97815778B1A43243924DC4AF54BB92BFE8BAED4E" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_9C597889519EC131F03C5E881554F4939D74A64A" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_B01D1DA3C4D6A38D6A8A9A0A37B90A5FDB058D79" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_BB760E2662B9BE54C31C36BDF418C48221361592" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_CE3AC92289564E321C02329AD7A4A0740130D059" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_D859655241EE5E036FA53ED3360C83FBE7838272" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_DAD7CA812C52677D75C6D8B7D91D275599CB16AD" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_EC7D510CA33643939D64DE3A928C58110266C395" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---0d0_D2AFEB4CFCEAF7DB311B6313313F06C905FF07F3" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---0d0_DIRECTORY_COUNTRY_SELECT_STORE_ADMIN" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---0d0_LAYOUT_01453B48733C825DC9E609AE45920F54E" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---0d0_LAYOUT_040593524DCC06D9892FCA04D242824DE" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---0d0_LAYOUT_059AB7150B12748A6360CDE95621E9D1A" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---0d0_LAYOUT_05F8502858E258201FECF0F08D60DF804" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---0d0_LAYOUT_101B7C20313B5789E4555FA0CBB37D539" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---0d0_LAYOUT_10B23CF25E061C0BE138DA64D389EB49C" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---0d0_LAYOUT_1153D40B569B6A326415747867C86C8A9" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---0d0_LAYOUT_1161581BEFC65C8963DF39049DE714529" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---0d0_LAYOUT_1AC21A0BAB827995BA53227233441FD5F" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---0d0_LAYOUT_1B1559C4F2495F935C6DADD22116490B6" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---internal-metadatas---0d0_D2AFEB4CFCEAF7DB311B6313313F06C905FF07F3" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---internal-metadatas---0d0_DIRECTORY_COUNTRY_SELECT_STORE_ADMIN" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---internal-metadatas---0d0_LAYOUT_01453B48733C825DC9E609AE45920F54E" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---internal-metadatas---0d0_LAYOUT_040593524DCC06D9892FCA04D242824DE" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---internal-metadatas---0d0_LAYOUT_059AB7150B12748A6360CDE95621E9D1A" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---internal-metadatas---0d0_LAYOUT_05F8502858E258201FECF0F08D60DF804" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---internal-metadatas---0d0_LAYOUT_101B7C20313B5789E4555FA0CBB37D539" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---internal-metadatas---0d0_LAYOUT_10B23CF25E061C0BE138DA64D389EB49C" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---internal-metadatas---0d0_LAYOUT_1153D40B569B6A326415747867C86C8A9" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---internal-metadatas---0d0_LAYOUT_1161581BEFC65C8963DF39049DE714529" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---internal-metadatas---0d0_LAYOUT_1AC21A0BAB827995BA53227233441FD5F" afterPath="" />
-      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---internal-metadatas---0d0_LAYOUT_1B1559C4F2495F935C6DADD22116490B6" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---0d0_0A52CE5F952E81B0E074C55EFD597EFCC01016DE" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---0d0_0A52CE5F952E81B0E074C55EFD597EFCC01016DE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/bg_x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/media/col_left_callout.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/media/col_right_callout.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/demo-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/demo_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/media/homepage_banner_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/media/homepage_banner_1@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/media/homepage_banner_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/media/homepage_callout_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/media/homepage_callout_1@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/media/homepage_callout_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/media/homepage_callout_2@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/media/homepage_callout_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/media/homepage_callout_3@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/icon_sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/icon_sprite@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/logo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/logo_email.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/logo_print.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/opc-ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/social_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/images/social_icons@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/1column.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/2columns-left.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/2columns-right.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/3columns.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_account-reviews.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/function/_black.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/mixin/_breakpoint.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_catalog-compare.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_catalog-msrp.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_catalog-product.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/content/_category.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_checkout-cart-minicart.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_checkout-cart.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_checkout-onepage.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_checkout-success.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/mixin/_clearfix.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_cms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/core/_common.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_configurableswatches.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_contacts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_cookies.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_customer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/layout/_footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/core/_form.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/_framework.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/layout/_global.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/layout/_header-account.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/layout/_header-cart.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/layout/_header-nav.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/layout/_header-search.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/layout/_header.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/content/_home.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/mixin/_if-resolution.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/mixin/_image-replacement.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/mixin/_loading-overlay.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/mixin/_menu.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/vendor/_normalize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/mixin/_not-selectable.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_paypal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/override/_plugin.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_pricing_conditions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_product-list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/core/_reset.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_review.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_search.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_slideshow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/core/_table.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/mixin/_toggle-content.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/mixin/_triangle.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/mixin/_typography.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/_var.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/function/_white.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/module/_wishlist.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/customer/account/dashboard/address.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/customer/form/address.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/paypal/express/review/address.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/view/addto.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/view/addtocart.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/bundle/catalog/product/view/type/bundle/availability.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/multishipping/billing.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/persistent/checkout/onepage/billing.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/paypal/bml.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/bundle/catalog/product/view/type/bundle.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/bundle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/captcha.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/cart.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/wishlist/item/column/cart.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/catalog.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/catalog_msrp.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/catalogsearch.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/payment/form/cc.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/payment/form/ccsave.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/customer/form/changepassword.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/checkout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/cms.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/reports/widget/compared/column/compared_default_list.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/reports/widget/compared/content/compared_grid.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/reports/widget/compared/column/compared_images_list.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/reports/widget/compared/content/compared_list.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/reports/widget/compared/column/compared_names_list.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/cataloginventory/stockqty/composite.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/config.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/view/type/options/configurable.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/customer/form/confirmation.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/contacts.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/cart/coupon.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/cart/crosssell.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/directory/currency.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/customer.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/customer/account/dashboard.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/view/type/default.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/view/type/availability/default.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/cart/item/default.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/cart/minicart/default.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/cart/render/default.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/cart/sidebar/default.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/multishipping/item/default.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/downloadable/checkout/cart/item/default.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/payment/info/default.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/sales/order/creditmemo/items/renderer/default.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/sales/order/items/renderer/default.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/paypal/express/review/details.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/directory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/downloadable/sales/order/items/renderer/downloadable.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/downloadable.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/customer/address/edit.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/customer/form/edit.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/empty.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/enquire.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/fastclick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/layer/filter.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/html/footer.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/customer/form/forgotpassword.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalogsearch/form.mini.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/authorizenet/directpost/form.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalogsearch/advanced/form.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/contacts/form.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/review/form.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/sales/widget/guest/form.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/view/type/grouped.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/view/type/availability/grouped.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/html/header.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/sales/order/history.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/imagesloaded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/onepage/review/info.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/wishlist/item/column/info.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/onepage/review/item.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/downloadable/checkout/onepage/review/item.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/cart/minicart/items.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/sales/order/items.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/sales/order/creditmemo/items.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/sales/order/shipment/items.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/jquery-1.10.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/jquery-1.10.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/jquery-1.10.2.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/jquery.cycle2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/jquery.cycle2.swipe.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/elevatezoom/jquery.elevateZoom-3.0.8.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/elevatezoom/jquery.elevatezoom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/navigation/left.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/template/links.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/list.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/compare/list.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/downloadable/customer/products/list.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/review/product/view/list.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/wishlist/item/list.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/oauth/authorize/form/login-simple.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/persistent/checkout/onepage/login.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/persistent/customer/form/login.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/css/madisonisland-ie8.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/madisonisland-ie8.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/css/madisonisland.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/madisonisland.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/matchMedia.addListener.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/matchMedia.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/view/media.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/paypal/express/review/shipping/method.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/customer/form/mini.login.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/minicart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/cart/minicart.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/modernizr.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/msrp_rwd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/customer/account/navigation.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/new.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/widget/new/column/new_default_list.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/widget/new/content/new_grid.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/widget/new/column/new_images_list.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/widget/new/content/new_list.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/widget/new/column/new_names_list.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/newsletter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/oauth.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/onepage.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/opcheckout_rwd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/page.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/html/pager.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/onepage/payment.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/paypal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/persistent.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/poll.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/msrp/popup.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/popup.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/wishlist/item/column/price.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/print.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/reports/product_viewed.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/onepage/progress.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/wishlist/item/column/quantity.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/sales/order/recent.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/persistent/customer/form/register.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/list/related.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/persistent/remember_me.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/persistent/remember_me_tooltip.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/bundle/sales/order/items/renderer.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/html/topmenu/renderer.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/customer/form/resetforgottenpassword.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalogsearch/result.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/paypal/express/review.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/review.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/rss.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/sales.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/css/scaffold-forms.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/scaffold-forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/bundle/catalog/product/view/type/bundle/option/select.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/selectivizr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/sendfriend/send.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/wishlist/shared.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/view/sharing.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/cart/shipping.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/onepage/shipping.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/paypal/express/minicart/shortcut.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/paypal/express/product/shortcut.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/compare/sidebar.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/cart/sidebar.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/wishlist/sidebar.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/cart/render/simple.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/js/slideshow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/centinel/authentication/start.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/layer/state.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/css/styles-ie8.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/styles-ie8.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/venedor/default/scss/styles.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/newsletter/subscribe.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/tag.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/etc/theme.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/list/toolbar.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/html/topmenu.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/locale/en_US/translate.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/downloadable/catalog/product/type.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/wishlist/button/update.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/checkout/cart/item/configure/updatecart.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/list/upsell.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/layer/view.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/catalog/product/view.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/review/view.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/review/customer/view.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/wishlist/view.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/reports/widget/viewed/column/viewed_default_list.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/reports/widget/viewed/content/viewed_grid.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/reports/widget/viewed/column/viewed_images_list.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/reports/widget/viewed/content/viewed_list.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/template/reports/widget/viewed/column/viewed_names_list.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/etc/widget.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/wishlist.xml" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---0d0_LAYOUT_040DDFDDA103174EE2016ADE8C843EACE" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---0d0_LAYOUT_045CAC1AA948AF4A96FF97B0B064B568D" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---0d0_LAYOUT_147E36A6F7E2DB2EEDBDCB613ACD5B858" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---0d0_LAYOUT_16CDC3E8D18B2C30316E186BE4D90912B" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---internal-metadatas---0d0_LAYOUT_040DDFDDA103174EE2016ADE8C843EACE" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---internal-metadatas---0d0_LAYOUT_045CAC1AA948AF4A96FF97B0B064B568D" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---internal-metadatas---0d0_LAYOUT_147E36A6F7E2DB2EEDBDCB613ACD5B858" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--0\mage---internal-metadatas---0d0_LAYOUT_16CDC3E8D18B2C30316E186BE4D90912B" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--1\mage---0d0_LAYOUT_ADMINHTML_STORE0_DEFAULT_DEFAULT" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--1\mage---0d0_TRANSLATE_EN_US_FRONTEND_1_RWD_DEFAULT" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--1\mage---internal-metadatas---0d0_LAYOUT_ADMINHTML_STORE0_DEFAULT_DEFAULT" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--1\mage---internal-metadatas---0d0_TRANSLATE_EN_US_FRONTEND_1_RWD_DEFAULT" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--2\mage---0d0_CONFIG_GLOBAL" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--2\mage---internal-metadatas---0d0_CONFIG_GLOBAL" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--3\mage---0d0_config_theme" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--3\mage---internal-metadatas---0d0_config_theme" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--4\mage---0d0_CONFIG_GLOBAL_ADMIN" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--4\mage---internal-metadatas---0d0_CONFIG_GLOBAL_ADMIN" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--5\mage---0d0_CONFIG_GLOBAL_CRONTAB" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--5\mage---0d0_CONFIG_GLOBAL_INSTALL" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--5\mage---0d0_CONFIG_GLOBAL_STORES" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--5\mage---0d0_TRANSLATE_EN_US_ADMINHTML_0_DEFAULT_DEFAULT" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--5\mage---internal-metadatas---0d0_CONFIG_GLOBAL_CRONTAB" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--5\mage---internal-metadatas---0d0_CONFIG_GLOBAL_INSTALL" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--5\mage---internal-metadatas---0d0_CONFIG_GLOBAL_STORES" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--5\mage---internal-metadatas---0d0_TRANSLATE_EN_US_ADMINHTML_0_DEFAULT_DEFAULT" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--6\mage---0d0_CONFIG_GLOBAL_ADMINHTML" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--6\mage---0d0_CONFIG_GLOBAL_WEBSITES" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--6\mage---internal-metadatas---0d0_CONFIG_GLOBAL_ADMINHTML" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--6\mage---internal-metadatas---0d0_CONFIG_GLOBAL_WEBSITES" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--7\mage---0d0_ADMINHTML_ACL_MENU_CONFIG" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--7\mage---0d0_STORE_ADMIN_CONFIG_CACHE" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--7\mage---internal-metadatas---0d0_ADMINHTML_ACL_MENU_CONFIG" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--7\mage---internal-metadatas---0d0_STORE_ADMIN_CONFIG_CACHE" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--8\mage---0d0_CONFIG_GLOBAL_STORES_ADMIN" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--8\mage---0d0_STORE_DEFAULT_CONFIG_CACHE" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--8\mage---internal-metadatas---0d0_CONFIG_GLOBAL_STORES_ADMIN" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--8\mage---internal-metadatas---0d0_STORE_DEFAULT_CONFIG_CACHE" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_08FB05D699AE94683C158BBB80A6AB50" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_131389BB825FCA53E89B3BB2C9BE17E0" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_2C44CBADF218D7C7405013105BA6052E" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_303F94219AA5B39199FF69D8188AB0CD" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_63DB0573DF8D113D1E7552CBCF187073" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_65C36BE4D6C499774ECB171425FF9631" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_899A9D6D712095F3C9CA9DE10C06EDA6" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_95E47DCAF24F3643A7631C0C6A459A08" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_CE04170531082F37459B8DCE4A7D2512" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_CONFIG_GLOBAL_STORES_DEFAULT" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---0d0_JAVASCRIPT_TRANSLATE_CONFIG" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_08FB05D699AE94683C158BBB80A6AB50" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_131389BB825FCA53E89B3BB2C9BE17E0" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_2C44CBADF218D7C7405013105BA6052E" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_303F94219AA5B39199FF69D8188AB0CD" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_63DB0573DF8D113D1E7552CBCF187073" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_65C36BE4D6C499774ECB171425FF9631" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_899A9D6D712095F3C9CA9DE10C06EDA6" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_95E47DCAF24F3643A7631C0C6A459A08" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_CE04170531082F37459B8DCE4A7D2512" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_CONFIG_GLOBAL_STORES_DEFAULT" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--9\mage---internal-metadatas---0d0_JAVASCRIPT_TRANSLATE_CONFIG" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---0d0_6E16BA0DD94DA6593E7DB462A5F1D807" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---0d0_76D390DEB6D0C640F81FDE756C97A9EB" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---0d0_C29E8C51C27888176EAADD4ADD7776FA" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---0d0_CF5E01BBFA5CDAE34EF9D100B9A8F0A6" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---internal-metadatas---0d0_6E16BA0DD94DA6593E7DB462A5F1D807" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---internal-metadatas---0d0_76D390DEB6D0C640F81FDE756C97A9EB" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---internal-metadatas---0d0_C29E8C51C27888176EAADD4ADD7776FA" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--a\mage---internal-metadatas---0d0_CF5E01BBFA5CDAE34EF9D100B9A8F0A6" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--c\mage---0d0_APP_B1FB6E8F13287C01E5C05063633DDA4C" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--c\mage---0d0_APP_E4D52B98688947405EDE639E947EE03D" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--c\mage---internal-metadatas---0d0_APP_B1FB6E8F13287C01E5C05063633DDA4C" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--c\mage---internal-metadatas---0d0_APP_E4D52B98688947405EDE639E947EE03D" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--d\mage---0d0_APP_4E4ABDD8DC00C3DACB3C1597944A3B6C" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--d\mage---internal-metadatas---0d0_APP_4E4ABDD8DC00C3DACB3C1597944A3B6C" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_0A52CE5F952E81B0E074C55EFD597EFCC01016DE" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_1A1E26C735C782C1266844B4038BE96418EF7E55" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_6E8F998FB045789B49F7D20045C5C06DE4A0D19B" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_8E04C6B40D09885DC781B85E2BF0915B883BDD10" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_8E0FE13BD7B604D0DB319AC45A5815A676DC86EA" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_9F48C8F83D379346BEA4C6615E0E7BF8FD6A126D" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_B124A8D0BE762BA38014BDDCD0A756890B964D5C" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_C989BE22D7B6F6E2885A45776F3299504F58E82E" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_E85A8932C9AA5BEDA95D7679697540DED527EF74" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---0d0_LAYOUT_FRONTEND_STORE1_RWD_DEFAULT" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_0A52CE5F952E81B0E074C55EFD597EFCC01016DE" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_1A1E26C735C782C1266844B4038BE96418EF7E55" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_6E8F998FB045789B49F7D20045C5C06DE4A0D19B" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_8E04C6B40D09885DC781B85E2BF0915B883BDD10" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_8E0FE13BD7B604D0DB319AC45A5815A676DC86EA" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_9F48C8F83D379346BEA4C6615E0E7BF8FD6A126D" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_B124A8D0BE762BA38014BDDCD0A756890B964D5C" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_C989BE22D7B6F6E2885A45776F3299504F58E82E" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_E85A8932C9AA5BEDA95D7679697540DED527EF74" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--e\mage---internal-metadatas---0d0_LAYOUT_FRONTEND_STORE1_RWD_DEFAULT" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---0d0_3B6DF0B53FFA5DCF2380F91197FF7E9A4C7A63D5" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---0d0_3EF64ECF6EC7EA1747CADC6D2A858CAA63F9F7F7" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---0d0_8DAAE5A9DC3CF35FB6A8E8720E75E7710AEEFF82" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---0d0_A89BCC7F7F5CB6CFF4171FF891706A01214F65F5" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---0d0_LAYOUT_15E4CA261871003A0224CDEADCFE8FDBD" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---0d0_LAYOUT_1A08B4E738125D07D45805912DC52852E" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---internal-metadatas---0d0_3B6DF0B53FFA5DCF2380F91197FF7E9A4C7A63D5" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---internal-metadatas---0d0_3EF64ECF6EC7EA1747CADC6D2A858CAA63F9F7F7" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---internal-metadatas---0d0_8DAAE5A9DC3CF35FB6A8E8720E75E7710AEEFF82" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---internal-metadatas---0d0_A89BCC7F7F5CB6CFF4171FF891706A01214F65F5" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---internal-metadatas---0d0_LAYOUT_15E4CA261871003A0224CDEADCFE8FDBD" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\magento_tranning\var\cache\mage--f\mage---internal-metadatas---0d0_LAYOUT_1A08B4E738125D07D45805912DC52852E" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---0d0_ADMIN_NOTIFICATIONS_LASTCHECK" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---0d0_ADMIN_NOTIFICATIONS_LASTCHECK" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---0d0_CONFIG_GLOBAL" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---0d0_CONFIG_GLOBAL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---0d0_FOOTER_LOCALEEN_US" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---0d0_FOOTER_LOCALEEN_US" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---internal-metadatas---0d0_0A52CE5F952E81B0E074C55EFD597EFCC01016DE" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---internal-metadatas---0d0_0A52CE5F952E81B0E074C55EFD597EFCC01016DE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---0d0_2C44CBADF218D7C7405013105BA6052E" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---0d0_2C44CBADF218D7C7405013105BA6052E" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---0d0_303F94219AA5B39199FF69D8188AB0CD" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---0d0_303F94219AA5B39199FF69D8188AB0CD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---0d0_3EF64ECF6EC7EA1747CADC6D2A858CAA63F9F7F7" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---0d0_3EF64ECF6EC7EA1747CADC6D2A858CAA63F9F7F7" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---0d0_63DB0573DF8D113D1E7552CBCF187073" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---0d0_63DB0573DF8D113D1E7552CBCF187073" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---0d0_65C36BE4D6C499774ECB171425FF9631" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---0d0_65C36BE4D6C499774ECB171425FF9631" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---0d0_6E16BA0DD94DA6593E7DB462A5F1D807" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---0d0_6E16BA0DD94DA6593E7DB462A5F1D807" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---0d0_76D390DEB6D0C640F81FDE756C97A9EB" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---0d0_76D390DEB6D0C640F81FDE756C97A9EB" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---0d0_899A9D6D712095F3C9CA9DE10C06EDA6" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---0d0_899A9D6D712095F3C9CA9DE10C06EDA6" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---0d0_8DAAE5A9DC3CF35FB6A8E8720E75E7710AEEFF82" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---0d0_8DAAE5A9DC3CF35FB6A8E8720E75E7710AEEFF82" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---internal-metadatas---0d0_8E04C6B40D09885DC781B85E2BF0915B883BDD10" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---internal-metadatas---0d0_8E04C6B40D09885DC781B85E2BF0915B883BDD10" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---internal-metadatas---0d0_8E0FE13BD7B604D0DB319AC45A5815A676DC86EA" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---internal-metadatas---0d0_8E0FE13BD7B604D0DB319AC45A5815A676DC86EA" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---0d0_95E47DCAF24F3643A7631C0C6A459A08" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---0d0_95E47DCAF24F3643A7631C0C6A459A08" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---internal-metadatas---0d0_9F48C8F83D379346BEA4C6615E0E7BF8FD6A126D" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---internal-metadatas---0d0_9F48C8F83D379346BEA4C6615E0E7BF8FD6A126D" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---0d0_A89BCC7F7F5CB6CFF4171FF891706A01214F65F5" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---0d0_A89BCC7F7F5CB6CFF4171FF891706A01214F65F5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---0d0_ADMINHTML_ACL_MENU_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---0d0_ADMINHTML_ACL_MENU_CONFIG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---0d0_CORE_CACHE_OPTIONS" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---0d0_CORE_CACHE_OPTIONS" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---0d0_ADMIN_NOTIFICATIONS_LASTCHECK" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---0d0_ADMIN_NOTIFICATIONS_LASTCHECK" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_APP_4E4ABDD8DC00C3DACB3C1597944A3B6C" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_APP_4E4ABDD8DC00C3DACB3C1597944A3B6C" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_APP_B1FB6E8F13287C01E5C05063633DDA4C" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_APP_B1FB6E8F13287C01E5C05063633DDA4C" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_APP_E4D52B98688947405EDE639E947EE03D" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_APP_E4D52B98688947405EDE639E947EE03D" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---internal-metadatas---0d0_B124A8D0BE762BA38014BDDCD0A756890B964D5C" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---internal-metadatas---0d0_B124A8D0BE762BA38014BDDCD0A756890B964D5C" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---internal-metadatas---0d0_C989BE22D7B6F6E2885A45776F3299504F58E82E" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---internal-metadatas---0d0_C989BE22D7B6F6E2885A45776F3299504F58E82E" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---0d0_CE04170531082F37459B8DCE4A7D2512" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---0d0_CE04170531082F37459B8DCE4A7D2512" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---0d0_CF5E01BBFA5CDAE34EF9D100B9A8F0A6" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---0d0_CF5E01BBFA5CDAE34EF9D100B9A8F0A6" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---0d0_CONFIGURATION_FILES_ACCESS_LEVEL_VERIFICATION" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---0d0_CONFIGURATION_FILES_ACCESS_LEVEL_VERIFICATION" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---internal-metadatas---0d0_CONFIG_GLOBAL" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---internal-metadatas---0d0_CONFIG_GLOBAL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---0d0_CONFIG_GLOBAL_ADMINHTML" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---0d0_CONFIG_GLOBAL_ADMINHTML" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---0d0_CONFIG_GLOBAL_ADMIN" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---0d0_CONFIG_GLOBAL_ADMIN" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---0d0_CONFIG_GLOBAL_CRONTAB" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---0d0_CONFIG_GLOBAL_CRONTAB" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---0d0_CONFIG_GLOBAL_INSTALL" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---0d0_CONFIG_GLOBAL_INSTALL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---0d0_CONFIG_GLOBAL_STORES" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---0d0_CONFIG_GLOBAL_STORES" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---0d0_CONFIG_GLOBAL_STORES_ADMIN" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---0d0_CONFIG_GLOBAL_STORES_ADMIN" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---0d0_CONFIG_GLOBAL_STORES_DEFAULT" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---0d0_CONFIG_GLOBAL_STORES_DEFAULT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---0d0_CONFIG_GLOBAL_WEBSITES" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---0d0_CONFIG_GLOBAL_WEBSITES" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---0d0_CORE_CACHE_INVALIDATE" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---0d0_CORE_CACHE_INVALIDATE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---0d0_CORE_CACHE_OPTIONS" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---0d0_CORE_CACHE_OPTIONS" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_catalog_product_entity_1" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_catalog_product_entity_1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_core_config_data_1" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_core_config_data_1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_design_change_1" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_design_change_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_eav_attribute_1" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_eav_attribute_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_log_url_1" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_log_url_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_log_url_info_1" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_log_url_info_1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_log_visitor_info_1" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_log_visitor_info_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_report_event_1" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_report_event_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_report_viewed_product_index_1" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---0d0_DB_PDO_MYSQL_DDL_report_viewed_product_index_1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---internal-metadatas---0d0_E85A8932C9AA5BEDA95D7679697540DED527EF74" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---internal-metadatas---0d0_E85A8932C9AA5BEDA95D7679697540DED527EF74" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---0d0_FOOTER_LOCALEEN_US" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---0d0_FOOTER_LOCALEEN_US" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---0d0_JAVASCRIPT_TRANSLATE_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---0d0_JAVASCRIPT_TRANSLATE_CONFIG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---0d0_LAYOUT_040DDFDDA103174EE2016ADE8C843EACE" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---0d0_LAYOUT_040DDFDDA103174EE2016ADE8C843EACE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---0d0_LAYOUT_147E36A6F7E2DB2EEDBDCB613ACD5B858" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---0d0_LAYOUT_147E36A6F7E2DB2EEDBDCB613ACD5B858" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---0d0_LAYOUT_15E4CA261871003A0224CDEADCFE8FDBD" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---0d0_LAYOUT_15E4CA261871003A0224CDEADCFE8FDBD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---0d0_LAYOUT_16CDC3E8D18B2C30316E186BE4D90912B" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---0d0_LAYOUT_16CDC3E8D18B2C30316E186BE4D90912B" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---internal-metadatas---0d0_LAYOUT_ADMINHTML_STORE0_DEFAULT_DEFAULT" afterPath="$PROJECT_DIR$/var/cache/mage--1/mage---internal-metadatas---0d0_LAYOUT_ADMINHTML_STORE0_DEFAULT_DEFAULT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---internal-metadatas---0d0_LAYOUT_FRONTEND_STORE1_RWD_DEFAULT" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---internal-metadatas---0d0_LAYOUT_FRONTEND_STORE1_RWD_DEFAULT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---0d0_STORE_ADMIN_CONFIG_CACHE" afterPath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---0d0_STORE_ADMIN_CONFIG_CACHE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---0d0_STORE_DEFAULT_CONFIG_CACHE" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---0d0_STORE_DEFAULT_CONFIG_CACHE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---0d0_TRANSLATE_EN_US_ADMINHTML_0_DEFAULT_DEFAULT" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---0d0_TRANSLATE_EN_US_ADMINHTML_0_DEFAULT_DEFAULT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---internal-metadatas---0d0_TRANSLATE_EN_US_FRONTEND_1_RWD_DEFAULT" afterPath="$PROJECT_DIR$/var/cache/mage--1/mage---internal-metadatas---0d0_TRANSLATE_EN_US_FRONTEND_1_RWD_DEFAULT" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_af_ZA_country_ZA" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_af_ZA_country_ZA" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_Zend_LocaleC_af_ZA_language_af" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_Zend_LocaleC_af_ZA_language_af" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_ar_DZ_country_DZ" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_ar_DZ_country_DZ" />
@@ -515,18 +693,25 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_currencysymbol_" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_currencysymbol_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_currencytoname_USD" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_currencytoname_USD" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_currencytoregion_US" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_currencytoregion_US" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_date_" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_date_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_date_full" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_date_full" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_date_long" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_date_long" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_date_medium" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_date_medium" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_date_short" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_date_short" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_day_gregorian_format_wide_wed" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_day_gregorian_format_wide_wed" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_decimalnumber_" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_decimalnumber_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_field_week" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_field_week" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_language_en" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_language_en" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_month_gregorian_format_abbreviated_12" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_month_gregorian_format_abbreviated_12" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_month_gregorian_format_wide_12" afterPath="$PROJECT_DIR$/var/cache/mage--1/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_month_gregorian_format_wide_12" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_nametocurrency_EUR" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_nametocurrency_EUR" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_nametocurrency_USD" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_nametocurrency_USD" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_nametocurrency_" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_nametocurrency_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_pm_" afterPath="$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_pm_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_relative_0" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_relative_0" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_scientificnumber_" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_scientificnumber_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_time_" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_time_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_time_medium" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_Zend_LocaleC_en_US_time_medium" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_es_AR_country_AR" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_es_AR_country_AR" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_Zend_LocaleC_es_AR_language_es" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_Zend_LocaleC_es_AR_language_es" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_es_CL_country_CL" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---0d0_Zend_LocaleC_es_CL_country_CL" />
@@ -648,10 +833,10 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---0d0_Zend_LocaleL_en_US_symbols_" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---0d0_Zend_LocaleL_en_US_symbols_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_Zend_LocaleL_en_US_territory_2" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---0d0_Zend_LocaleL_en_US_territory_2" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---0d0_Zend_LocaleL_en_US_windowstotimezone_" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---0d0_Zend_LocaleL_en_US_windowstotimezone_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---0d0_config_theme" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---internal-metadatas---0d0_config_theme" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/session/sess_9nsmm8hv8h5g7vnd3e86u5nek5" afterPath="$PROJECT_DIR$/var/session/sess_9nsmm8hv8h5g7vnd3e86u5nek5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/session/sess_jcgkf2f631qb37mg8ppc6mto54" afterPath="$PROJECT_DIR$/var/session/sess_jcgkf2f631qb37mg8ppc6mto54" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/magento_tranning.iml" afterPath="$PROJECT_DIR$/.idea/magento_tranning.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/rwd/default/template/page/html/topmenu/renderer.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/rwd/default/template/page/html/topmenu/renderer.phtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/log/system.log" afterPath="$PROJECT_DIR$/var/log/system.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="magento_tranning.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -674,19 +859,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Toanspace_Toanmodule.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/code/local/Toanspace/Toanmodule/etc/Toanspace_Toanmodule.xml">
+      <file leaf-file-name="customer.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/layout/customer.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="22" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+            <state line="79" column="115" selection-start="3150" selection-end="3150" vertical-scroll-proportion="-11.56" vertical-offset="1054" max-vertical-offset="5219">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IndexController.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/code/local/Toanspace/Toanmodule/controllers/IndexController.php">
+      <file leaf-file-name="header.phtml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/html/header.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="5" selection-start="272" selection-end="272" vertical-scroll-proportion="0.23345818" vertical-offset="0" max-vertical-offset="801">
+            <state line="9" column="36" selection-start="396" selection-end="396" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="1428">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/skin/frontend/venedor/default/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9775" column="14" selection-start="206738" selection-end="206738" vertical-scroll-proportion="0.843318" vertical-offset="165443" max-vertical-offset="166311">
               <folding />
             </state>
           </provider>
@@ -713,15 +910,23 @@
         <option value="$PROJECT_DIR$/app/code/local/Toanspace/Toanmodule/etc/Toanspace_Toanmodule.xml" />
         <option value="$PROJECT_DIR$/app/code/local/Toanspace/Toanmodule/etc/config.xml" />
         <option value="$PROJECT_DIR$/app/code/local/Toanspace/Toanmodule/controllers/IndexController.php" />
+        <option value="$PROJECT_DIR$/app/design/frontend/rwd/default/template/page/html/header.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/rwd/default/template/page/html/topmenu/renderer.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/page.xml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/wishlist.xml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/checkout.xml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/venedor/default/layout/customer.xml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/html/header.phtml" />
+        <option value="$PROJECT_DIR$/skin/frontend/venedor/default/css/styles.css" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="919" />
-    <option name="y" value="205" />
-    <option name="width" value="1400" />
-    <option name="height" value="987" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -778,6 +983,94 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento_tranning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento_tranning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="venedor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento_tranning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento_tranning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="venedor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento_tranning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento_tranning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento_tranning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento_tranning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -796,19 +1089,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Toanspace" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Toanmodule" />
+              <option name="myItemId" value="design" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -826,57 +1107,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
+              <option name="myItemId" value="design" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="local" />
+              <option name="myItemId" value="frontend" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Toanspace" />
+              <option name="myItemId" value="venedor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Toanmodule" />
+              <option name="myItemId" value="default" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="etc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento_tranning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento_tranning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Toanspace" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Toanmodule" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
+              <option name="myItemId" value="template" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -894,11 +1141,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
+              <option name="myItemId" value="design" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="local" />
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="venedor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -916,7 +1179,159 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="venedor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento_tranning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento_tranning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="venedor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento_tranning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento_tranning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="venedor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento_tranning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento_tranning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="venedor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento_tranning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento_tranning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -926,6 +1341,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\magento_tranning\skin\frontend\venedor" />
+      <recent name="D:\xampp\htdocs\magento_tranning\app\design\frontend\venedor\default" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -953,27 +1376,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="919" y="205" width="1400" height="987" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939914" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18020834" sideWeight="0.67060083" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -988,16 +1411,122 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/code/local/Toanspace/Toanmodule/etc/Toanspace_Toanmodule.xml">
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/page/html/topmenu/renderer.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="22" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+        <state line="47" column="0" selection-start="1676" selection-end="1676" vertical-scroll-proportion="-7.0384617" vertical-offset="225" max-vertical-offset="1105">
+          <folding>
+            <marker date="1418869553971" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/html/topmenu/renderer.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="0" selection-start="1257" selection-end="1257" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="1105">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Toanspace/Toanmodule/controllers/IndexController.php">
+    <entry file="file://$PROJECT_DIR$/skin/frontend/venedor/default/js/lib/enquire.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="5" selection-start="272" selection-end="272" vertical-scroll-proportion="0.23345818" vertical-offset="0" max-vertical-offset="801">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5015">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/html/topmenu.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="906">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/layout/contacts.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="906">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/layout/wishlist.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="40" selection-start="1113" selection-end="1124" vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="2601">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/layout/checkout.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="54" selection-start="1171" selection-end="1281" vertical-scroll-proportion="0.0" vertical-offset="430" max-vertical-offset="9350">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/template/links.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="493">
+          <folding>
+            <marker date="1418784266300" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418784266300" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/modern/template/page/html/header.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/html/pager.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="45" selection-start="1345" selection-end="1345" vertical-scroll-proportion="28.115385" vertical-offset="969" max-vertical-offset="1853">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skin/frontend/venedor/default/scss/layout/_header-nav.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="0" selection-start="1335" selection-end="1335" vertical-scroll-proportion="-6.901961" vertical-offset="396" max-vertical-offset="4828">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Page/Block/Html/Head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="509" column="38" selection-start="15493" selection-end="15493" vertical-scroll-proportion="-7.3846154" vertical-offset="8070" max-vertical-offset="8670">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/layout/page.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="120" selection-start="5435" selection-end="5436" vertical-scroll-proportion="-7.64" vertical-offset="1237" max-vertical-offset="4386">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/layout/customer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="115" selection-start="3150" selection-end="3150" vertical-scroll-proportion="-11.56" vertical-offset="1054" max-vertical-offset="5219">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/venedor/default/template/page/html/header.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="36" selection-start="396" selection-end="396" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="1428">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skin/frontend/venedor/default/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9775" column="14" selection-start="206738" selection-end="206738" vertical-scroll-proportion="0.843318" vertical-offset="165443" max-vertical-offset="166311">
           <folding />
         </state>
       </provider>
